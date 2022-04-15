@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @emadrk
 - 👀 I’m interested in Backend Development
-- 🌱 I’m currently learning Python, Django, MySql, Javascript
+- 🌱 I’m currently learning Python,Golang Django, MySQL, Javascript
 - 💞️ I’m looking to collaborate on Backend Development
 - 📫 You can reach me out at @7667149548 or emadk3@gmail.com
 
